@@ -1,0 +1,9 @@
+@software{JemalS_2026_duckdb_chdb_repository,
+  author = {Samba, Jemal and Ahmadi, Mahdia and Correia, Maria Eduarda and Hossain, Shahadat and Matos, Paulo and Oliveira, Pedro},
+  doi = {10.5281/zenodo.19254112},
+  month = {3},
+  title = {Comparative Evaluation of DuckDB and chDB Performance},
+  url = {https://github.com/Jemal-S/Comparative-Evaluation-of-DuckDB-and-chDB-Performance},
+  version = {1.0.0},
+  year = {2026}
+}
