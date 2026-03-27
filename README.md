@@ -5,6 +5,8 @@
 [![chDB - 3.4.0](https://img.shields.io/badge/chDB-3.4.0-orange)](https://github.com/chdb-io/chdb)
 [![Dataset - NYC TLC Yellow Taxi](https://img.shields.io/badge/Dataset-NYC%20TLC-yellow)](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 [![Status - Research Benchmark](https://img.shields.io/badge/Status-Research%20Benchmark-lightgrey)](#)
+[![DOI](https://zenodo.org/badge/1193504965.svg)](https://doi.org/10.5281/zenodo.19254112)
+
 
 A comprehensive performance comparison between **chDB** and **DuckDB** using the NYC Taxi Yellow Trip Dataset across different data layouts.
 
